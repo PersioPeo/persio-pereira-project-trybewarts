@@ -5,11 +5,38 @@
 
 header {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: rgb(50, 167, 145);
-    height: 100px;
+    height: 80px;
 }
 
 .trybewarts-header-logo {
+    width: 60px;
+    margin-left: 20px;
+}
+
+
+form {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    /* border: 1px solid red; */
     
 }
 
+.form-input {
+    border-radius: 5px;
+    width: 120px;
+    height: 30px;
+    border: 0px;
+}
+
+.btn-entrar {
+    background-color: blueviolet;
+    color: white;
+}
+
+#trybewarts-header-title {
+    color: white;
+}
