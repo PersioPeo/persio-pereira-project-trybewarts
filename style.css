@@ -3,7 +3,7 @@
     padding: 0px;
 }
 
-header {
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -17,7 +17,7 @@ header {
 }
 
 
-form {
+.trybewarts-login {
     display: flex;
     justify-content: space-around;
     width: 400px;
