@@ -41,6 +41,22 @@
     color: white;
 }
 
-.evaluation-form {
+main {
+    display: flex;
+}
+
+#evaluation-form {
+    display: flex;
+    flex-direction: column;
+    width: 675px;
+}
+
+.input {
+    
+}
+
+
+#trybewarts-forms-logo {
+    height: 500px;
     
 }
