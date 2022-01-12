@@ -22,3 +22,14 @@
 // }
 
 // buttonLogin.addEventListener("click", login());
+
+/*-------------------------------------------------------------------------*/
+document.getElementById('button-header').addEventListener('click', () => {
+  const email = document.getElementById('input-email').value;
+  const senha = document.getElementById('input-senha').value;
+  if (email === 'tryber@teste.com' && senha === '123456') {
+    alert('Olá, Tryber!');
+  } else {
+    alert('Email ou senha inválidos.');
+  }
+});
