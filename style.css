@@ -1,6 +1,10 @@
-* {
+*{
   margin: 0 px;
   padding: 0 px;
+  
+}
+body {
+  background-color: red;
 }
 
 .header {
