@@ -1,7 +1,6 @@
-*{
+* {
   margin: 0 px;
   padding: 0 px;
-  
 }
 
 .header {
@@ -56,4 +55,13 @@ main {
 #label-family {
   display: flex;
   flex-direction: column;
+}
+
+/* Ajustando o item 11 */
+#emailCasa {
+  display: flex;
+}
+
+#rate {
+  display: flex;
 }
