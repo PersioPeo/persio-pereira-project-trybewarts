@@ -9,7 +9,7 @@ document.getElementById('button-header').addEventListener('click', () => {
   }
 });
 
-const botao = document.getElementById('button-main');
+const botao = document.getElementById('submit-btn');
 botao.disabled = true;
 document.getElementById('agreement').addEventListener('click', () => {
   if (document.getElementById('agreement').value === '') {
