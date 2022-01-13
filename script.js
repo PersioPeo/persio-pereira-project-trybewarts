@@ -14,7 +14,7 @@
 //     let userPassword = senha.value;
 //     let validEmail = 'tryber@teste.com';
 //     let validPassword = 123456;
-//     if(userEmail === validEmail & userPassword === validPassword) {
+//     if(userEmail === validEmail & userPassword === validPassword) { */ Falatou mais um & na nosso if*/
 //         console.log("Olá, Tryber!");
 //     } else {
 //         console.log("Email ou senha inválidos.")
