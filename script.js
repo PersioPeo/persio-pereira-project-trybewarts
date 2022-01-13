@@ -1,4 +1,3 @@
-/*-------------------------------------------------------------------------*/
 document.getElementById('button-header').addEventListener('click', () => {
   const email = document.getElementById('i-email').value;
   const senha = document.getElementById('input-senha').value;
