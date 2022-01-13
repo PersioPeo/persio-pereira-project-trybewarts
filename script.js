@@ -40,6 +40,6 @@ document.getElementById('agreement').addEventListener('click', () => {
   if (document.getElementById('agreement').value === '') {
     botao.disabled = true;
   } else {
-    botao.disabled = false;
+    botao.disabled = false;    
   }
 });
